@@ -1,0 +1,24 @@
+### 2025-05-21 (Update 11)
+- Updated brand colors according to new brand guidelines:
+  - Changed Vibrant Red from #e04646 to #3db9aa in the CSS variables
+  - This update aligns with the teal-green color already used for the word "work" in the tagline
+  - The change affects all elements using the --vibrant-red CSS variable, including:
+    - Active cursor color
+    - Ink splat animations
+    - Mouse trail effects
+  - The updated color provides a more cohesive visual identity across all brand touchpoints
+
+### 2025-05-21 (Update 12)
+- Made decorative blobs 6x smaller to improve visual balance:
+  - Reduced main blob sizes from 1200px, 800px, 600px, and 1000px to 200px, 133px, 100px, and 167px respectively
+  - Proportionally reduced tablet and mobile blob sizes
+  - This change keeps the decorative elements visible but makes them less dominant on the page
+  - The smaller blobs create a more subtle background effect that doesn't compete with the main content
+
+### 2025-05-21 (Update 13)
+- Improved blob animations by removing shape switching and enhancing morphing effects:
+  - Replaced abrupt shape switching with smoother transformations
+  - Added rotation animations to create more organic movement
+  - Enhanced scaling animations with separate X and Y axis transformations
+  - Used consistent blob shapes with transformations instead of switching between different shapes
+  - These changes create a more subtle, fluid animation effect that's less distracting
