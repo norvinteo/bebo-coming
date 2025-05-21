@@ -22,3 +22,12 @@
   - Enhanced scaling animations with separate X and Y axis transformations
   - Used consistent blob shapes with transformations instead of switching between different shapes
   - These changes create a more subtle, fluid animation effect that's less distracting
+
+### 2025-05-21 (Update 14)
+- Set up Git version control and GitHub repository:
+  - Initialized Git repository for the project
+  - Created initial commit with all existing files
+  - Created a new GitHub repository at https://github.com/norvinteo/bebo-coming
+  - Connected local repository to GitHub remote
+  - Successfully pushed all code to GitHub for team collaboration and backup
+  - This enables better tracking of future changes and facilitates collaboration
